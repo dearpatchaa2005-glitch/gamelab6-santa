@@ -1,0 +1,13 @@
+78098b89c88a74ebe8c20117b8754620
+::res://::1790530228
+character@Idle.fbx::PackedScene::3249695728082078704::1790525319::1790525910::1::::<><><>0<>0<>be25f9aabd2ecbb8d9127f1524386ba9<>res://.godot/imported/character@Idle.fbx-bd9da68186f7c57cbedff3deb4b3ccea.scn::
+character@Jump.fbx::PackedScene::6688494527532666765::1790525856::1790525910::1::::<><><>0<>0<>dbdf2ef0d25543b11453831a366122c6<>res://.godot/imported/character@Jump.fbx-35ed7fde04b86f62dbf216df7c81308c.scn::
+character@Running.fbx::PackedScene::2245641224425741163::1790525786::1790525911::1::::<><><>0<>0<>9a1060c98217d2be6a0ad69b3e72053e<>res://.godot/imported/character@Running.fbx-74025efd7a97ec9e88d23b210fa77f4f.scn::
+character@Walking.fbx::PackedScene::6382173468083059999::1790525354::1790525911::1::::<><><>0<>0<>47f7866fab74e84f6399d471228fa2e2<>res://.godot/imported/character@Walking.fbx-d95c9c18bd84e230c6b1b7046c5c060c.scn::
+demo.gd::GDScript::8594562356816436727::1790527516::0::1::::<>Node3D<><>0<>1<><>::
+demo.tscn::PackedScene::9097603953804794562::1790528130::0::1::::<><><>0<>0<><>::uid://dupjglny3cfvj::::res://demo.gd
+export_presets.cfg::TextFile::-1::1790530228::0::1::::<><><>0<>0<><>::
+::res://docs/::1790530227
+index.apple-touch-icon.png::CompressedTexture2D::2728128496784625274::1790530227::1790530276::1::::<><><>0<>0<>d5f12a2a9af63ffeb441d9e060edd70c<>res://.godot/imported/index.apple-touch-icon.png-b21a756d869f84af832970a74d8371bc.ctex::
+index.icon.png::CompressedTexture2D::8660784070157711838::1790530227::1790530276::1::::<><><>0<>0<>fec96ccf7e6afcbcc15a01425e3e0604<>res://.godot/imported/index.icon.png-b92c9a802ad4b78e247784454a6b506f.ctex::
+index.png::CompressedTexture2D::5904716975544687458::1790530227::1790530276::1::::<><><>0<>0<>ecd93e9a4c034367f7e4d0e1adb68158<>res://.godot/imported/index.png-0c78d14d192abe5f22f8c25928ca1ab8.ctex::
